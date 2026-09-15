@@ -1,7 +1,5 @@
 # Atividade 02 — SEMANA 01 — LoginLab
 
-\---
-
 # 1\. Plano de teste — LoginLab
 
 ## Identificação
