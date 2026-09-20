@@ -2,7 +2,7 @@
 
 Integrante: Vinicius Ramon Ferreira
 
-Data: 08/09/2026 (prazo de duas semanas, contando da postagem em 25/08/2026)
+Data: 18/09/2026
 
 ## Modelagem adotada
 
