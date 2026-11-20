@@ -1,0 +1,9 @@
+Tarefa;Tempo (s);Sucesso (S/N);Erros;Observacoes
+Acessar site;3;S;1;Carregamento rapido sem CAPTCHA; banner fixo de cookies no rodape e alta densidade promocional (Black Friday).
+Buscar produto;5;S;0;Busca por "fone de ouvido Bluetooth" direta e clara; +9.999 resultados e chip automatico "Com Bluetooth".
+Aplicar filtros;35;Parcial (Full: S / Avaliados: N);3;Filtro Full facil no topo da sidebar (3.737 resultados), mas "Ordenar por" so tem 3 opcoes (Mais relevantes, Menor preco, Maior preco) e nao ha filtro por estrelas/avaliacao.
+Abrir detalhes;21;S;2;4 primeiros resultados patrocinados e cards omitem numero de avaliacoes. Escolhido Samsung Galaxy Buds Core branco (4.9 estrelas, 47.672 opinioes, Full, R$ 215,32 no Pix).
+Adicionar ao carrinho;5;N (bloqueado sem login);2;Ausencia de carrinho para visitante (Guest Cart): redirecionamento imediato para parede de login sem botao explicito de voltar.
+Simular compra;9;Parcial / S (parou no login);2;Clique em "Comprar agora" redirecionou direto para formulario de login com Google SSO (inconsistencia de fluxo vs Adicionar ao carrinho). Parada antes de login/pagamento.
+Retornar a tela inicial;2;S;1;Clique unico no logo retornou a Home; bloco "Visto recentemente" exibiu preco divergente (R$ 219 vs R$ 215,32 no Pix) e labels de acessibilidade em espanhol.
+TOTAL;80;4 S / 2 Parciais / 1 N;11;Tempo total 1m20s (abaixo do limite de 4 min); SUS = 72,5 (Bom).
